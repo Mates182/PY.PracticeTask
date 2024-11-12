@@ -4,7 +4,6 @@
 This is a simple Python application using `fasthtml` that starts an HTTP server. It displays "Hello World" on the main page, and when clicked, it responds with "Nice to be here!" This project demonstrates basic server setup and deployment within Docker. The project is deployed and accessible online, and it can also be run locally using Docker.
 
 ## Project Links
-- **Deployed on Railway**: [PY Practice Task on Railway](https://pypracticetask-production.up.railway.app/)
 - **Docker Hub Repository**: [mates182/py_practicetask on Docker Hub](https://hub.docker.com/repository/docker/mates182/py_practicetask)
 
 ## Getting Started
